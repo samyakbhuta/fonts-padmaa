@@ -30,6 +30,6 @@ LICENSE
 GNU GPL. The glyphs are copyrighted by Cyberscape Multimedia Ltd. The rules are released Under GPL with copyright by Prof. Jitendra Shah.
 
 Copyright Glyphs (R) Cyberscape Multimedia Ltd.
-#101,Mahalakshmi Mansion 21st Main 22nd "A" Cross Banashankari 2nd stage Banglore 560 070,India
+\#101,Mahalakshmi Mansion 21st Main 22nd "A" Cross Banashankari 2nd stage Banglore 560 070,India
 
 Converted to OTF by IndicTrans Team,Powai,Mumbai lead by Prof. Jitendra Shah
